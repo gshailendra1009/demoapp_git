@@ -1,1 +1,2 @@
-Get-ChildItem Env:  
+Get-ChildItem Env:
+echo 1
